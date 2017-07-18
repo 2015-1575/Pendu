@@ -1,5 +1,4 @@
-# Pendu
-# Pendu
-# Pendu
-# Pendu
-# Pendu
+- Un document texte, contenant le dictionnaire des mots
+- donnees.py, contient les données
+- fonctions.py, contient les fonctions permettant le jeu
+- pendu.py, script principal
